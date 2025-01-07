@@ -19,6 +19,7 @@ i.	Create a Calculated Field and name it as the First Order Date
 i.	Align all sheets in the dashboard.
  
 ## 6.	Partition the dashboard to display the below details of Primary Region and Secondary Region
+
 i.	First Order Date
 ii.	Total Sales
 iii.	Average Sales per Order
