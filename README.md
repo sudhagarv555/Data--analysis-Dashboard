@@ -7,4 +7,4 @@ Help the organization by creating a dashboard to visualize the sales comparison 
 
 
 Datasets: Sample Superstore 
-https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls
+- <a href "https://github.com/sudhagarv555/Data--analysis-Dashboard/blob/main/Sample%20-%20Superstore.xls">Dataset<a/>
