@@ -20,10 +20,12 @@ i.	Align all sheets in the dashboard.
  
 ### 6.	Partition the dashboard to display the below details of Primary Region and Secondary Region
 
-i.	First Order Date
-ii.	Total Sales
-iii.	Average Sales per Order
-iv.	No. of Customers
-v.	No. of Orders
-vi.	No. of Products in Sales
+.	First Order Date
+.	Total Sales
+.	Average Sales per Order
+.	No. of Customers
+.	No. of Orders
+.	No. of Products in Sales
+
+Dashboard interacion <a href="https://github.com/sudhagarv555/Data--analysis-Dashboard/blob/main/Screenshot%202025-01-07%20142446.png"> viwe dashboard </a>
 
