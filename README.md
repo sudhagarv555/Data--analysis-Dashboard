@@ -27,7 +27,7 @@ i.	Align all sheets in the dashboard.
 .	No. of Orders
 .	No. of Products in Sales
 
-Dashboard interacion <a href="https://github.com/sudhagarv555/Data--analysis-Dashboard/blob/main/Screenshot%202025-01-07%20142446.png"> viwe dashboard </a>
+Dashboard interacion <a href="https://github.com/sudhagarv555/Data--analysis-Dashboard/blob/main/Screenshot%202025-01-07%20142446.png"> view dashboard </a>
 
 ## Dashboard
 ![Screenshot 2025-01-07 142446](https://github.com/user-attachments/assets/5f17b0f0-e261-4ec6-b9e0-91f054bf69d3)
