@@ -29,3 +29,6 @@ i.	Align all sheets in the dashboard.
 
 Dashboard interacion <a href="https://github.com/sudhagarv555/Data--analysis-Dashboard/blob/main/Screenshot%202025-01-07%20142446.png"> viwe dashboard </a>
 
+## Dashboard
+"D:\EXCEL\Screenshot 2025-01-07 142446.png"
+
